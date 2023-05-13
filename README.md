@@ -12,7 +12,7 @@ Music Database: Design a database where the following information will be kept f
 
 As a solution, the singer database scheme is designed : 
 
-![image](https://user-images.githubusercontent.com/119699844/218271565-986753e5-407a-430a-8d77-bdd11a92e13f.png)
+![Bildschirmfoto 2023-05-13 um 12 05 59](https://github.com/mert10unal/Singer/assets/120198895/ab2ab2fb-0c13-405d-b57c-a4db10f84f52)
 
 In line with my design, some frequently asked questions by users :
 
